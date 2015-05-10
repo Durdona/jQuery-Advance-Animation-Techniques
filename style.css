@@ -1,0 +1,45 @@
+/*CSS Settings for Advanced Animation Techniques  ... It may not position elements properly since we have other element. Its purpose is mainly to focus on the concept  */
+#logo {
+	position: absolute;
+	top: 100px;
+	left: 200px;
+}
+
+#logo2 {
+	position: absolute;
+	top: 300px;
+	left: 200px;
+}
+
+#box {
+	position: relative;
+	left: 300px;
+	top: 400px;
+	background-color: rgba(0,255,0, 0.3);
+	height: 90px;
+	width: 390px;
+}
+
+#logo3D {
+	position: absolute;
+	left: 100px;
+}
+#pngImg {
+	position: absolute;
+	top: 100px;
+	right: 400px;
+}
+
+input[type=button] {
+	position: absolute;
+	top: 120px;
+	right: 420px;
+}
+
+div.promiseBox {
+	width: 150px;
+	height: 150px;
+	/*background-color: green;*/
+	float: left;
+	margin: 10px;
+}
